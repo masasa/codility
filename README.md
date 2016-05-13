@@ -1,8 +1,6 @@
-# codility
-Codility coding questions solutions
+## BinaryGap
 
-BinaryGap
 Find longest sequence of zeros in binary representation of an integer.
 
-Triangle
+## Triangle
 Determine whether a triangle can be built from a given set of edges.
