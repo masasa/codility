@@ -20,3 +20,10 @@ Maximize A[P] * A[Q] * A[R] for any triplet (P, Q, R).
 
 Try to solve it by yourself 
 [here](https://codility.com/demo/take-sample-test/max_product_of_three/ "MaxProductOfThree Codility Test")
+
+##Fish
+
+N voracious fish are moving along a river. Calculate how many fish are alive.
+
+Try to solve it by yourself 
+[here](https://codility.com/demo/take-sample-test/fish/"Fish Codility Test")
