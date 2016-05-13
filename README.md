@@ -12,7 +12,7 @@ Try to solve it by yourself
 Determine whether a triangle can be built from a given set of edges.
 
 Try to solve it by yourself 
-[here](https://codility.com/demo/take-sample-test/triangle/"Triangle Codility Test")
+[here](https://codility.com/demo/take-sample-test/triangle/ "Triangle Codility Test")
 
 ##MaxProductOfThree
 
@@ -26,4 +26,4 @@ Try to solve it by yourself
 N voracious fish are moving along a river. Calculate how many fish are alive.
 
 Try to solve it by yourself 
-[here](https://codility.com/demo/take-sample-test/fish/"Fish Codility Test")
+[here](https://codility.com/demo/take-sample-test/fish/ "Fish Codility Test")
