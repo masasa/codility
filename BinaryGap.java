@@ -18,7 +18,7 @@ class BinaryGap {
 		while(N > 0){
 			if(N % 2 == 0) currGap++;
 			else{
-				// we reached the closing 1 bit
+				// we reacher a 1 bit
 				if(currGap > maxGap) maxGap = currGap;
 				currGap = 0;	
 			}
