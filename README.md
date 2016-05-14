@@ -40,4 +40,4 @@ Try to solve it by yourself
 Find the maximal sum of any double slice.
 
 Try to solve it by yourself 
-[here](https://codility.com/demo/take-sample-test/max_double_slice_sum/ "MaxDoubleSliceSUm Codility Test")
+[here](https://codility.com/demo/take-sample-test/max_double_slice_sum/ "MaxDoubleSliceSum Codility Test")
