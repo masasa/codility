@@ -31,4 +31,6 @@ Try to solve it by yourself
 ##MaxProfit
 
 Given a log of stock prices compute the maximum possible earning.
+
+Try to solve it by yourself 
 [here](https://codility.com/demo/take-sample-test/max_profit/ "MaxProfit Codility Test")
