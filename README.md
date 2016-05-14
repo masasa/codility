@@ -35,6 +35,14 @@ Given a log of stock prices compute the maximum possible earning.
 Try to solve it by yourself 
 [here](https://codility.com/demo/take-sample-test/max_profit/ "MaxProfit Codility Test")
 
+##MaxSliceSum
+
+Find a maximum sum of a compact subsequence of array elements.
+
+Try to solve it by yourself 
+[here](https://codility.com/demo/take-sample-test/max_slice_sum/ "MaxDoubleSliceSum Codility Test")
+
+
 ##MaxDoubleSliceSum
 
 Find the maximal sum of any double slice.
