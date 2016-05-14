@@ -49,3 +49,10 @@ Find the maximal sum of any double slice.
 
 Try to solve it by yourself 
 [here](https://codility.com/demo/take-sample-test/max_double_slice_sum/ "MaxDoubleSliceSum Codility Test")
+
+##CountFactors
+
+Count factors of given number n.
+
+Try to solve it by yourself 
+[here](https://codility.com/demo/take-sample-test/count_factors/ "CountFactors Codility Test")
