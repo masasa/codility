@@ -1,6 +1,6 @@
 package codility;
 
-import java.util.Stacks;
+import java.util.Stack;
 
 class Fish {
     public int solution(int[] A, int[] B) {

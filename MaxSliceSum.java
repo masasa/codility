@@ -13,7 +13,7 @@ class MaxSliceSum {
 
     	// finding the maximal slice
     	for(int i=1; i<n; i++){
-    		maxEnds[i] = Math.max(maxEnds[i-1] + A[i], 0);
+    		maxEnds[i] = Math.max(maxEnds[i-1] + A[i], A[i]);
     		maxSum = Math.max(maxSum, maxEnds[i]);
     	}
 
